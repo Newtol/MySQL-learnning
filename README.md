@@ -1,1 +1,24 @@
 # MySQL-learnning
+## 基础篇
+### [史上最简单MYSQL教程详解（基础篇）之初识MySQL数据库以及环境配置](https://blog.csdn.net/m0_37888031/article/details/80410422)
+### [史上最简单MySQL教程详解（基础篇）之监视器](https://blog.csdn.net/m0_37888031/article/details/80412248)
+### [史上最简单MySQL教程详解（基础篇）之数据类型](http://blog.csdn.net/m0_37888031/article/details/80418156)
+### [史上最简单MySQL教程详解（基础篇）之库操作和用户管理](http://blog.csdn.net/m0_37888031/article/details/80443811)
+### [史上最简单MySQL教程详解（基础篇）之常用表操作和表参数介绍](http://blog.csdn.net/m0_37888031/article/details/80450393)
+### [史上最简单MySQL教程详解（基础篇）之表的维护和改造](http://blog.csdn.net/m0_37888031/article/details/80464310)
+### [史上最简单MySQL教程详解（基础篇）之SQL语句以及预留关键字介绍](http://blog.csdn.net/m0_37888031/article/details/80486397)
+### [史上最简单MySQL教程详解（基础篇）之SQL语句（一）](https://blog.csdn.net/m0_37888031/article/details/80496686)
+### [史上最简单MySQL教程详解（基础篇）之SQL语句（二）](http://blog.csdn.net/m0_37888031/article/details/80550022)
+### [史上最简单MySQL教程详解（基础篇）之数据库设计范式及应用举例](http://blog.csdn.net/m0_37888031/article/details/80620267)
+### [史上最简单MySQL教程详解（基础篇）之多表联合查询](http://blog.csdn.net/m0_37888031/article/details/80632268)
+## 进阶篇
+### [史上最简单MySQL教程详解（进阶篇）之存储引擎介绍及默认引擎设置](http://blog.csdn.net/m0_37888031/article/details/80664138)
+### [史上最简单MySQL教程详解（进阶篇）之事务处理](http://blog.csdn.net/m0_37888031/article/details/80704344)
+### [史上最简单MySQL教程详解（进阶篇）之锁与事务处理分离水平（一）](http://blog.csdn.net/m0_37888031/article/details/80753219)
+### [史上最简单MySQL教程详解（进阶篇）之锁与事务处理分离水平（二）](http://blog.csdn.net/m0_37888031/article/details/81740338)
+### [史上最简单MySQL教程详解（进阶篇）之深入理解事务处理内部的动作](http://blog.csdn.net/m0_37888031/article/details/81749062)
+### [史上最简单MySQL教程详解（进阶篇）之索引及失效场合总结](http://blog.csdn.net/m0_37888031/article/details/82153719)
+### [史上最简单MySQL教程详解（进阶篇）之视图](http://blog.csdn.net/m0_37888031/article/details/82668098)
+### [史上最简单MySQL教程详解（进阶篇）之存储过程（一）](http://blog.csdn.net/m0_37888031/article/details/82691581)
+### [史上最简单MySQL教程详解（进阶篇）之存储过程（二）](http://blog.csdn.net/m0_37888031/article/details/82693889)
+
